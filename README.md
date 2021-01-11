@@ -1,4 +1,8 @@
-### Hexlet tests and linter status:
+# Brain games
+
+## Interactive game
+
+### Hexlet tests and linter status
 
 [![Actions Status](https://github.com/mustbefail/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/mustbefail/frontend-project-lvl1/actions)
 
