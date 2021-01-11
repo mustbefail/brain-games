@@ -1,0 +1,23 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "Frontend project lvl 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustbefail/frontend-project-lvl1.git"
+  },
+  "author": "Viktor Kushnir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mustbefail/frontend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/mustbefail/frontend-project-lvl1#readme"
+}
