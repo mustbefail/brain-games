@@ -1,6 +1,10 @@
 # Brain games
 
-## Interactive game
+## Interactive games
+
+### brain even
+
+[![asciicast](https://asciinema.org/a/7Qlx9wir9Wxlr3RYU7ljw2jUT.svg)](https://asciinema.org/a/7Qlx9wir9Wxlr3RYU7ljw2jUT)
 
 ### Hexlet tests and linter status
 
