@@ -6,7 +6,7 @@
 
 "Parity check". The essence of the game is as follows: a random number is shown to the user. And he needs to answer yes if the number is even, or no if odd
 
-[![asciicast](https://asciinema.org/a/eV9cEKjmIBv941n5kdczottXU.svg)](https://asciinema.org/a/eV9cEKjmIBv941n5kdczottXU)
+[How its works](https://asciinema.org/a/eV9cEKjmIBv941n5kdczottXU)
 
 ### Hexlet tests and linter status
 
