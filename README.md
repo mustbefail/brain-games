@@ -14,6 +14,12 @@ The user is shown a random mathematical expression, for example **35 + 16**, whi
 
 [How its works](https://asciinema.org/a/5phkZix2ikabBlcprVhEVKZm9)
 
+### Brain gcd (greatest common divisor)
+
+The essence of the game is as follows: the user is shown two random numbers, for example, **25 50**. The user must calculate and enter the greatest common divisor of these numbers.
+
+[How its works](https://asciinema.org/a/n64WTMoWnrHnrVtXLzbRdCKXx)
+
 ### Hexlet tests and linter status
 
 [![Actions Status](https://github.com/mustbefail/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/mustbefail/frontend-project-lvl1/actions)
