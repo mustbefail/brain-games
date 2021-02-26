@@ -8,6 +8,12 @@
 
 [How its works](https://asciinema.org/a/eV9cEKjmIBv941n5kdczottXU)
 
+### Brain calculator
+
+The user is shown a random mathematical expression, for example **35 + 16**, which needs to be calculated and written down the correct answer.
+
+[How its works](https://asciinema.org/a/5phkZix2ikabBlcprVhEVKZm9)
+
 ### Hexlet tests and linter status
 
 [![Actions Status](https://github.com/mustbefail/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/mustbefail/frontend-project-lvl1/actions)
