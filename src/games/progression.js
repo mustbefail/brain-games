@@ -12,10 +12,12 @@ export default () => {
   for (let i = 0; i < progressionLength; i += 1, progressionStart += progressionStep) {
     progressionArray.push(progressionStart);
   }
+
   const correctAnswer = progressionArray[secretIndex];
 
   progressionArray[secretIndex] = '..';
-  console.log(`Question: ${progressionArray}`);
+  const question = progressionArray.join(' ');
+  console.log(`Question: ${question}`);
 
   const userInput = readlineSync.question('Your answer: ');
   if (parseInt(userInput, 10) !== correctAnswer) {
