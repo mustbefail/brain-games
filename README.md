@@ -1,5 +1,9 @@
 # Brain games
 
+[![Actions Status](https://github.com/mustbefail/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/mustbefail/frontend-project-lvl1/actions)
+
+[![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
+
 ## Interactive games
 
 ### Brain even
@@ -31,11 +35,3 @@ The player is shown a series of numbers, forming an arithmetic progression, repl
 The user is offered a number, he must determine whether it is a prime number.
 
 [How its works](https://asciinema.org/a/GhhVAeY5x7fPlpA5c8fO58TTF)
-
-### Hexlet tests and linter status
-
-[![Actions Status](https://github.com/mustbefail/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/mustbefail/frontend-project-lvl1/actions)
-
-### Codeclime
-
-[![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
