@@ -14,7 +14,7 @@ The user is shown a random mathematical expression, for example **35 + 16**, whi
 
 [How its works](https://asciinema.org/a/5phkZix2ikabBlcprVhEVKZm9)
 
-### Brain gcd (greatest common divisor)
+### Brain Greatest Common Divisor
 
 The essence of the game is as follows: the user is shown two random numbers, for example, **25 50**. The user must calculate and enter the greatest common divisor of these numbers.
 
@@ -25,6 +25,12 @@ The essence of the game is as follows: the user is shown two random numbers, for
 The player is shown a series of numbers, forming an arithmetic progression, replacing any of the numbers with two dots. The player must determine this number
 
 [How its works](https://asciinema.org/a/RfsWNBaPzwDNFSbZ19RgEyoEc)
+
+### Brain Is it a prime number?
+
+The user is offered a number, he must determine whether it is a prime number.
+
+[How its works](https://asciinema.org/a/GhhVAeY5x7fPlpA5c8fO58TTF)
 
 ### Hexlet tests and linter status
 

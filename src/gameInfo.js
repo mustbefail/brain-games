@@ -12,6 +12,9 @@ export default (gameName) => {
     case 'progression':
       console.log('What number is missing in the progression?');
       break;
+    case 'prime':
+      console.log('Answer "yes" if given number is prime. Otherwise answer "no".');
+      break;
     default:
       break;
   }
