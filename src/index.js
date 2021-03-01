@@ -9,7 +9,7 @@ export default (gameName, game) => {
     const wonStatus = game();
     if (wonStatus === 'won') gameRound += 1;
     else {
-      console.log(`Let's try again ${userName}!`);
+      console.log(`Let's try again, ${userName}!`);
       return;
     }
   }
