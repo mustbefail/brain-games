@@ -10,11 +10,10 @@ export default () => {
   const userInput = readlineSync.question('Your answer: ');
   const correctAnswer = translateToYesNo(isEven(randomNumber));
 
-  if (userInput === translateToYesNo(isEven(randomNumber))) {
-    console.log('Correct!');
-  } else {
-    console.log(`${userInput} is wrong answer ;(.\nCorrect answer was '${correctAnswer}'.`);
+  if (userInput !== translateToYesNo(isEven(randomNumber))) {
+    console.log(`${userInput} is wrong answer ;(.\nCorrect answer was ${correctAnswer}.`);
     return 'lose';
   }
+  console.log('Correct!');
   return 'won';
 };

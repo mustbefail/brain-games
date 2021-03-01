@@ -20,6 +20,12 @@ The essence of the game is as follows: the user is shown two random numbers, for
 
 [How its works](https://asciinema.org/a/n64WTMoWnrHnrVtXLzbRdCKXx)
 
+### Brain arithmetic progression
+
+The player is shown a series of numbers, forming an arithmetic progression, replacing any of the numbers with two dots. The player must determine this number
+
+[How its works](https://asciinema.org/a/RfsWNBaPzwDNFSbZ19RgEyoEc)
+
 ### Hexlet tests and linter status
 
 [![Actions Status](https://github.com/mustbefail/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/mustbefail/frontend-project-lvl1/actions)
